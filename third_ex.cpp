@@ -1,8 +1,7 @@
 #include <iostream>
 
-//Garv Nandwana
-//PRN - 23070123167
-
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 int main() {
     // Arithmetic Operators
     int a = 10;
